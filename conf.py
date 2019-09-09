@@ -77,7 +77,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
         ("/about/index.html", "Research"),
-        ("/blog/index.html", "Blog"),
+        ("/blog/index.html", "Python"),
         ("/cv/Daniel_P_Russo_CV.pdf", "CV")
 
     ),
