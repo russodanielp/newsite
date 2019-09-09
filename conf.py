@@ -76,9 +76,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
+        ("/about/index.html", "Research"),
         ("/blog/index.html", "Blog"),
-        ("/about/index.html", "About"),
-        ("/files/Daniel_P_Russo_CV.pdf", "CV")
+        ("/cv/Daniel_P_Russo_CV.pdf", "CV")
 
     ),
 }
