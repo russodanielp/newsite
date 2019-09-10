@@ -1,5 +1,5 @@
 <!--
-.. title: About
+.. title: Research
 .. slug: about
 .. date: 2019-09-09 13:11:57 UTC-04:00
 .. tags:
