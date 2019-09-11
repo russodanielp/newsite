@@ -7,5 +7,9 @@
 .. link:
 .. description:
 .. type: text
+.. hidetitle: True
 -->
 
+# Daniel P. Russo Research Homepage 
+
+I am computational biologist teaching and researching biology, chemistry and computer science.  Here I blog about a variety of topics in science, python programming, and Phillies baseball.
