@@ -10,6 +10,15 @@
 .. hidetitle: True
 -->
 
-# Daniel P. Russo Research Homepage 
+<center>
 
-I am computational biologist teaching and researching biology, chemistry and computer science.  Here I blog about a variety of topics in science, python programming, and Phillies baseball.
+<h1>Daniel P. Russo Research</h1>
+
+<br>
+<br>
+Welcome to Drug Discovery in Python, a website dedicated to Daniel P. Russo's research and science commentary, involving topics in biology, chemistry, and computer science. 
+<br>
+<br>
+<img src="/images/webpage_header.png"/>
+</center>
+
