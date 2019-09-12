@@ -76,11 +76,11 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
-        ("/about/index.html", "Research"),
+        ("/research/index.html", "Research"),
         ("/blog/index.html", "Blog"),
+        ("/software/index.html", "Software"),
         ("/cv/Daniel_P_Russo_CV.pdf", "CV"),
-        ("/about/index.html", "About")
-
+        ("/contact/index.html", "Contact")
     ),
 }
 
@@ -92,7 +92,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap4"
+THEME = "dan-theme"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -1129,7 +1129,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Bootstrap is served from BootstrapCDN (provided by MaxCDN)
 # Set this to False if you want to host your site without requiring access to
 # external resources.
-# USE_CDN = False
+USE_CDN = False
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
