@@ -77,8 +77,9 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
         ("/about/index.html", "Research"),
-        ("/blog/index.html", "Python"),
-        ("/cv/Daniel_P_Russo_CV.pdf", "CV")
+        ("/blog/index.html", "Blog"),
+        ("/cv/Daniel_P_Russo_CV.pdf", "CV"),
+        ("/about/index.html", "About")
 
     ),
 }
@@ -95,7 +96,7 @@ THEME = "bootstrap4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
-THEME_COLOR = '#FFFFFF'
+THEME_COLOR = '#00008b'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Examples below are for bootblog4.

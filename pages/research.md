@@ -1,12 +1,13 @@
 <!--
 .. title: Research
-.. slug: about
+.. slug: research
 .. date: 2019-09-09 13:11:57 UTC-04:00
 .. tags:
 .. category:
 .. link:
 .. description:
 .. type: text
+.. hidetitle: True
 -->
 
 
